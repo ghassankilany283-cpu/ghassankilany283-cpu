@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hey there! I'm [Your Name] 👋
 
-<!--
-**ghassankilany283-cpu/ghassankilany283-cpu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A Full Stack Developer focused on creating reliable, scalable, and maintainable applications.
 
-Here are some ideas to get you started:
+I specialize in building complete web solutions using modern frontend technologies, Node.js backend services, and PostgreSQL databases.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 What I do
+- Build full-stack web applications
+- Design backend architectures and APIs
+- Work with databases and optimize data solutions
+- Write clean and maintainable code
+
+### 🛠 Tech Stack
+JavaScript • TypeScript • React • Node.js • PostgreSQL • Git
+
+Always learning, always building. ⚡
