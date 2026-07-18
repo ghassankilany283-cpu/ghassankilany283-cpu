@@ -1,4 +1,4 @@
-# Hey there! I'm [Your Name] 👋
+# Hey there! I'm Ghassan 👋
 
 A Full Stack Developer focused on creating reliable, scalable, and maintainable applications.
 
